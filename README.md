@@ -8,7 +8,7 @@ vercel现在每月有100GB的免费流量。本人又基于[cloudflare](https://
 
 ## 部署
 [![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gaboolic/vercel-reverse-proxy)
-
+apppfdfdf
 
 ## 使用方法
 1 部署。部署有两种方法，一是直接点击上方按钮一键部署，二是可以先fork本项目，再登录[vercel](https://vercel.com/)网站新建。vercel可以通过github一键注册只需要绑定手机号支持cn
@@ -20,7 +20,7 @@ vercel现在每月有100GB的免费流量。本人又基于[cloudflare](https://
 
 3 访问 域名/proxy/url  或者/httpproxy/url即可。
 映射规则为/proxy/url映射到https接口，/httpproxy/url映射到http接口
-
+apppfdfdf
 ## 示例
 例1 访问https://替换为你自己的域名.com/proxy/api.openai.com/v1/chat/completions 
 实际上会替换为https://api.openai.com/v1/chat/completions
@@ -44,3 +44,4 @@ vercel现在每月有100GB的免费流量。本人又基于[cloudflare](https://
 实际上会替换为https://www.google.com/search?q=vercel-reverse-proxy
 ![demo3](img/demo3.png)
 代理google搜索结果页面
+apppfdfdf
